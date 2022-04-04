@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_FIORI_TOOLS</CLSNAME>
+    <LANGU>T</LANGU>
+    <DESCRIPT>Fiori Tools</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <TPOOL>
+    <item>
+     <ID>I</ID>
+     <KEY>E01</KEY>
+     <ENTRY>İşlem sırasında bir hata oluştu</ENTRY>
+     <LENGTH>62</LENGTH>
+    </item>
+   </TPOOL>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FIORI_TOOLS</CLSNAME>
+     <CMPNAME>CONTEXT_C</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Request Details for Entity Create Operation</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FIORI_TOOLS</CLSNAME>
+     <CMPNAME>CONTEXT_D</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Request Details for Entity Delete Operation</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FIORI_TOOLS</CLSNAME>
+     <CMPNAME>CONTEXT_E</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Request Details for Read Feed</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FIORI_TOOLS</CLSNAME>
+     <CMPNAME>CONTEXT_R</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Request Details for Entity Read Operation</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FIORI_TOOLS</CLSNAME>
+     <CMPNAME>CONTEXT_U</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Request Details for Entity Update Operation</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FIORI_TOOLS</CLSNAME>
+     <CMPNAME>CONVERSION_INPUT</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Input conversion</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FIORI_TOOLS</CLSNAME>
+     <CMPNAME>GET_FILTER</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Field ismine göre filter oku</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FIORI_TOOLS</CLSNAME>
+     <CMPNAME>GET_KEY</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Field ismine göre key oku</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FIORI_TOOLS</CLSNAME>
+     <CMPNAME>GET_SKIP</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Skip değerini al</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FIORI_TOOLS</CLSNAME>
+     <CMPNAME>GET_TOP</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Top değerini al</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FIORI_TOOLS</CLSNAME>
+     <CMPNAME>HANDLE_SORTING</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Sorting</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FIORI_TOOLS</CLSNAME>
+     <CMPNAME>RAISE_EXCEPTION</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Exception mesajı ver</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_FIORI_TOOLS</CLSNAME>
+     <CMPNAME>REPLACE_TURKISH_CHARACTERS</CMPNAME>
+     <LANGU>T</LANGU>
+     <DESCRIPT>Türkçe karakterleri düzelt</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
